@@ -56,7 +56,8 @@ Note: The original notebook contains device-specific file paths. These must be u
 
 Project Resources
 
-View Original Project Files on Google Drive
+View Original Project Files on Google Drive:
+https://drive.google.com/drive/folders/1u7sliF2rWSHlbyzwC79kPGcXDqZxmaOC
 
 Future Improvements
 
